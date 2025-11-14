@@ -11,8 +11,8 @@
 // @run-at       document-end
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
 // @license      Luna-Lolita
-// @downloadURL  https://update.greasyfork.org/scripts/529346/Quermed%20Filter.user.js
-// @updateURL    https://update.greasyfork.org/scripts/529346/Quermed%20Filter.meta.js
+// @downloadURL  https://update.greasyfork.org/scripts/555815/Switchere%20Add%20Apple%20Pay%20to%20your%20wallet.user.js
+// @updateURL    https://update.greasyfork.org/scripts/555815/Switchere%20Add%20Apple%20Pay%20to%20your%20wallet.user.js
 // @connect *
 // @grant GM_xmlhttpRequest
 // ==/UserScript==
