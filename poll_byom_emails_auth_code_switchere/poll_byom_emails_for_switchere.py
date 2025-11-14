@@ -220,8 +220,9 @@ if __name__ == '__main__':
         if len(to_matches) > 0:
            print(to_matches[-1])
            rjsonr["to"]=to_matches[-1]
-        stra='>(\d{6})'
+        stra='text-decoration.+>(\d{6})'
         auth_code_matches=re.findall(stra, rtext)
+        #auth_code_matches.reverse()
         auth_codes={"auth_code": 0}
         if len(auth_code_matches)  > 0:
            for auth_code in auth_code_matches:
