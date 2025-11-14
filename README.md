@@ -1,10 +1,12 @@
-"# switchere" 
-
 Switchere Add Apple Pay to your wallet
 
 0.0 to give your clients the option to use Apple Pay, which you will then receive in your bitcoin wallet, follow these steps
 
-0.1 sw worker install this script , install tampermonkey chrome addon from the chrome extension store and press here on the greasyfork site the install button
+0.1 sw worker install this script , install tampermonkey chrome addon from the chrome extension store and press here on the greasyfork site
+
+https://greasyfork.org/en/scripts/555815-switchere-add-apple-pay-to-your-wallet
+
+the install button
 
 1.0 sw worker register a account here https://switchere.com/de/sign-up and use for that a byom.de email address the can you get here https://www.byom.de/nachrichten/privatdetekteien, the id is the first part of the email address, open the
 
