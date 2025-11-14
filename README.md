@@ -14,19 +14,26 @@ poll_byom_emails_auth_code_switchere/dist/poll_byom_emails_for_switchere.exe you
 
 the can find you here https://github.com/wolfitdm/switchere/archive/refs/heads/main.zip
 
-then press the get auth code button on this site https://switchere.com/de/sign-up
+then press the get auth code button on this site https://switchere.com/de/sign-up, the get auth code button can you get find on the end of the site
 
 then go to step 2
 
 2. then the sw worker add a wallet here https://switchere.com/de/onramp#/settings/wallets
 
-3. login with the account login and password and then open this link in your browser, https://switchere.com/de/onramp?sw_mode=cabinet&btcv=5.00
+3. login with the account login and optional the password and then open this link in your browser, https://switchere.com/de/onramp?sw_mode=cabinet&btcv=5.00
+
+the nice thing is, that you don,t need create a password, is it optional, what makes for your clients easier too use that
 
 the btcv is the bitcoin value the client pays to you
 
 then you are done, give this link and the account data login and password to your client, and your client must install tampermonkey script also
 
 https://switchere.com/de/onramp?sw_mode=cabinet&btcv=5.00
+
+the client can also use the get auth code button, if he have also use the poll_byom_emails_auth_code_switchere/dist/poll_byom_emails_for_switchere.exe your-byom-email-id@byom.de 
+
+tool,alternatively go to https://www.byom.de/nachrichten/privatdetekteien
+
 
 the source you can get here
 
